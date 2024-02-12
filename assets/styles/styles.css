@@ -42,13 +42,14 @@ em {
 }
 
 button {
-    font-weight: 200;
+    font-weight: 800;
+    font-size: large;
     color: maroon;
     font-style: normal;
     background-color: beige;
     border-radius: 5px;
-    padding-top: 15px;
-    padding-left: 15px;
-    padding-right: 15px;
-    padding-bottom: 15px;
+    padding-top: 5px;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-bottom: 5px;
 }
